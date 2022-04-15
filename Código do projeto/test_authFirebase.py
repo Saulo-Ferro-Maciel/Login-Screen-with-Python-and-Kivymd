@@ -1,6 +1,6 @@
 import requests as rq
 
-apikey='AIzaSyD22LrjWiatu2O569QJA8G0Fl3Slmxuu2I'# the web api key
+apikey='Your API key here!'
 
 # Nesse vídeo, eu, mostro como o projeto ficou com a implementação do firebase
 
